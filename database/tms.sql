@@ -1,0 +1,1 @@
+SELECT * FROM tms_db.users;
